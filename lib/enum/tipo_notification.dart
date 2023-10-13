@@ -1,0 +1,1 @@
+enum TipoNotification {SMS, PUSH, NOTIFICATION, EMAIL, NENHUM}
